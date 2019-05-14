@@ -13,3 +13,4 @@ to start just upload images, after that go back and refresh the page and click y
 link, then you can give it to who ever to obtain their IP ADDRESS
 
 The ip addresses usually shows later in the control panel
+LICESNSES GPL
